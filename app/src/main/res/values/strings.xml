@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+
+    <string name="app_name_translate">Temperature Converter</string>
+
+    <string name="home">Home</string>
+    <string name="method">Method</string>
+    <string name="howto">How To</string>
+    <string name="howto2">How To Use?</string>
+    <string name="setting">Settings</string>
+
+    <string name="lr_jamil">Name : LR.Jamil</string>
+    <string name="developer_info">~Developer Info~</string>
+    <string name="android_app_developer">Android App Developer</string>
+    <string name="education">Education</string>
+    <string name="b_sc_honours_dep_mathematics">B.Sc Honours.  Department of Mathematics</string>
+    <string name="address">Address</string>
+    <string name="address_dis"> Habiganj;  Sylhet, Bangladesh</string>
+    <string name="_8801712302246" translatable="false">+8801712302246</string>
+    <string name="lrjamilbd_gmail_com" translatable="false">lrjamilbd@gmail.com</string>
+
+    <string name="mobile">Mobile</string>
+    <string name="email">Email</string>
+    <string name="profile_dis_text">Dear User. First of all Thank you so much for using my app. I hope you are enjoying my app. If you need any kind of android app feel free to message me. I will try to make a best app for you too. If you are facing any problem with this app please let me know. Thanks again. Regards Developer Jamil.</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="dark_mood">Dark Mood</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="rate_app">Review App</string>
+    <string name="are_you_sure">Do you want to exit?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="exit">Exit</string>
+    <string name="this_is_an_ad">This is an Ad</string>
+
+    <string name="select_your_language" translatable="false">Select your language :</string>
+    <string name="select_your_language_bn" translatable="false">আপনার ভাষা নির্বাচন করুন:</string>
+    <string name="language_setting" translatable="false">Language / ভাষা</string>
+    <string name="bengali" translatable="false">বাংলা</string>
+    <string name="english" translatable="false">English</string>
+
+    <string name="share">Share</string>
+    <string name="more_apps">More Apps</string>
+    <string name="about_us">About Us</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="privacy_and_policy">Privacy and Policy</string>
+
+
+    <string name="enter_the_value_here">Enter a value!</string>
+    <string name="convert">Convert</string>
+    <string name="celsius">Celsius :</string>
+    <string name="fahrenheit">Fahrenheit :</string>
+    <string name="kelvin">Kelvin :</string>
+    <string name="rankine">Rankine:</string>
+
+    <string name="CelsiusL">Celsius</string>
+    <string name="FahrenheitL">Fahrenheit</string>
+    <string name="KelvinL">Kelvin</string>
+    <string name="RankineL">Rankine</string>
+
+    <string name="dis_text">In this app we can calculate temperature in 4 different ways and we can convert one value to another.Below are the formulas: </string>
+
+
+    <string name="celsius_to">1. Celsius To :-</string>
+    <string name="kelvin_k_celsius_273_15">Kelvin (K) = Celsius + 273.15</string>
+    <string name="fahrenheit_f_celsius_x_1_8_32">Fahrenheit (°F) = (Celsius x 1.8) + 32</string>
+    <string name="rankine_r_celsius_273_15_x_1_8">Rankine (°R) = (Celsius + 273.15) x 1.8</string>
+    <string name="kelvin_to">2. Kelvin To :-</string>
+    <string name="celsius_c_kelvin_273_15">Celsius (°C) = Kelvin - 273.15</string>
+    <string name="fahrenheit_f_kelvin_x_1_8_459_67">Fahrenheit (°F) = Kelvin x 1.8 – 459.67</string>
+    <string name="rankine_r_kelvin_x_1_8">Rankine (°R) = Kelvin x 1.8</string>
+    <string name="fahrenheit_to">3. Fahrenheit To :-</string>
+    <string name="celsius_c_fahrenheit_32_1_8">Celsius (°C) = (Fahrenheit - 32) / 1.8</string>
+    <string name="kelvin_k_fahrenheit_32_1_8_273_15">Kelvin (K) = (Fahrenheit - 32) / 1.8 + 273.15</string>
+    <string name="rankine_r_fahrenheit_459_67">Rankine (°R) = Fahrenheit + 459.67</string>
+    <string name="rankine_to">4. Rankine To :-</string>
+    <string name="celsius_c_rankine_491_67_1_8">Celsius (°C) = (Rankine - 491.67) / 1.8</string>
+    <string name="kelvin_k_rankine_1_8">Kelvin (K) = Rankine / 1.8</string>
+    <string name="fahrenheit_f_rankine_459_67">Fahrenheit (°F) = Rankine - 459.67</string>
+
+    <string name="howToUse">How To Use?</string>
+    <string name="necessaryFormula">Necessary Formula</string>
+    <string name="choose_a_option">1. Choose a option:</string>
+    <string name="enter_a_value">2. Enter a value and Click Convert:</string>
+    <string name="get_the_ans">3. Get the ans:</string>
+
+
+    <string-array name="temperatureName">
+        <item>@string/CelsiusL</item>
+        <item>@string/KelvinL</item>
+        <item>@string/FahrenheitL</item>
+        <item>@string/RankineL</item>
+    </string-array>
+
+
+</resources>

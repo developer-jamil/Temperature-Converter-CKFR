@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_bottom_nav_id"
+        android:title="@string/home"
+        android:icon="@drawable/ic_baseline_home_24"/>
+    <item
+        android:id="@+id/method_bottom_nav_id"
+        android:title="@string/method"
+        android:icon="@drawable/ic_baseline_library_books_24"/>
+    <item
+        android:id="@+id/howTo_bottom_nav_id"
+        android:title="@string/howto"
+        android:icon="@drawable/ic_baseline_question_mark_24"/>
+    <item
+        android:id="@+id/profile_bottom_nav_id"
+        android:title="@string/setting"
+        android:icon="@drawable/ic_baseline_settings_24"/>
+
+
+</menu>

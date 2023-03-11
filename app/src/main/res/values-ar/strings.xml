@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="enter_the_value_here">أدخل قيمة!</string>
+    <string name="convert">يتحول</string>
+    <string name="celsius">درجة مئوية :</string>
+    <string name="fahrenheit">فهرنهايت:</string>
+    <string name="kelvin">كلفن:</string>
+    <string name="rankine">رانكين:</string>
+    <string name="CelsiusL">درجةمئوية</string>
+    <string name="FahrenheitL">فهرنهايت</string>
+    <string name="KelvinL">كلفن</string>
+    <string name="RankineL">رانكين</string>
+    <string name="share">يشارك</string>
+    <string name="more_apps">تطبيقات أكثر</string>
+    <string name="about_us">معلومات عنا</string>
+    <string name="rate_us">قيمنا</string>
+    <string name="setting">الإعدادات</string>
+    <string name="privacy_and_policy">الخصوصية والسياسة</string>
+    <string name="exit">مخرج</string>
+    <string name="dis_text">في هذا التطبيق يمكننا حساب درجة الحرارة بأربع طرق مختلفة ويمكننا تحويل قيمة إلى أخرى ، فيما يلي الصيغ:</string>
+    <string name="celsius_to">1. مئوية إلى: -</string>
+    <string name="kelvin_to">2. كلفن إلى: -</string>
+    <string name="fahrenheit_to">3. فهرنهايت إلى: -</string>
+    <string name="howToUse">كيف تستعمل؟</string>
+    <string name="necessaryFormula">الصيغة الضرورية</string>
+    <string name="kelvin_k_celsius_273_15">كلفن (K) = درجة مئوية + 273.15</string>
+    <string name="fahrenheit_f_celsius_x_1_8_32">فهرنهايت (°F) = (درجة مئوية x 1.8) + 32</string>
+    <string name="rankine_r_celsius_273_15_x_1_8">رانكين (°R) = (درجة مئوية + 273.15)  1.8</string>
+    <string name="celsius_c_kelvin_273_15">درجة مئوية (°C) = كلفن - 273.15</string>
+    <string name="fahrenheit_f_kelvin_x_1_8_459_67">فهرنهايت (°F) = كلفن  1.8 - 459.67</string>
+    <string name="rankine_r_kelvin_x_1_8">رانكين (°R) = كلفن  1.8 x</string>
+    <string name="celsius_c_fahrenheit_32_1_8">درجة مئوية (°C) = (فهرنهايت - 32) / 1.8</string>
+    <string name="kelvin_k_fahrenheit_32_1_8_273_15">كلفن (K) = (فهرنهايت - 32) / 1.8 + 273.15</string>
+    <string name="rankine_r_fahrenheit_459_67">رانكين (°R) = فهرنهايت + 459.67</string>
+    <string name="rankine_to">4. رانكين إلى: -</string>
+    <string name="celsius_c_rankine_491_67_1_8">درجة مئوية (°C) = (رانكين - 491.67) / 1.8</string>
+    <string name="kelvin_k_rankine_1_8">كلفن (K) = رانكين / 1.8</string>
+    <string name="fahrenheit_f_rankine_459_67">فهرنهايت (°F) = رانكين - 459.67</string>
+    <string name="choose_a_option">1. حدد خيارًا:</string>
+    <string name="enter_a_value">2. أدخل قيمة وانقر على \"تحويل\":</string>
+    <string name="get_the_ans">3. احصل على الجواب:</string>
+    <string name="home">Home</string>
+    <string name="method">طريقة</string>
+    <string name="howto">كيف</string>
+    <string name="howto2">كيف تستعمل؟</string>
+    <string name="lr_jamil">Name : LR.Jamil</string>
+    <string name="developer_info">~ معلومات المطور ~</string>
+    <string name="android_app_developer">Android App Developer</string>
+    <string name="education">المؤهل العلمي</string>
+    <string name="b_sc_honours_dep_mathematics">بكالوريوس مع مرتبة الشرف. قسم الرياضيات</string>
+    <string name="address">تبوك</string>
+    <string name="address_dis">Chunarughat, Habiganj;  Sylhet, Bangladesh</string>
+    <string name="mobile">متحرك</string>
+    <string name="email">بريد إلكتروني</string>
+    <string name="profile_dis_text">عزيزي المستخدم. بادئ ذي بدء ، شكرًا جزيلاً على استخدام تطبيقي. أتمنى أن تستمتع بتطبيقي. إذا كنت بحاجة إلى أي نوع من تطبيقات Android ، فلا تتردد في مراسلتي. سأحاول تقديم أفضل تطبيق لك أيضًا. إذا كنت تواجه أي مشكلة مع هذا التطبيق ، فيرجى إبلاغي بذلك. شكرًا لك مرة أخرى. تحياتي المطور جميل.</string>
+    <string name="off">إيقاف</string>
+    <string name="this_is_an_ad">هذا إعلان</string>
+    <string name="cancel">يلغي</string>
+    <string name="yes">نعم</string>
+    <string name="are_you_sure">هل تريد الخروج؟</string>
+    <string name="rate_app">مراجعة التطبيق</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="dark_mood">مزاج مظلم</string>
+    <string name="on">على</string>
+    <string name="app_name_translate">محول درجة الحرارة</string>
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom_sheet_exit_linear"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/card_rond"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="200dp"
+        android:orientation="vertical"
+        tools:ignore="UselessParent">
+
+        <!-- exit the app textview -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="00dp"
+            android:fontFamily="sans-serif-medium"
+            android:gravity="center"
+            android:text="@string/are_you_sure"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            tools:ignore="SpUsage" />
+
+        <!-- Alert Icon ImageView -->
+        <ImageView
+            style="@style/bg_tint_red"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginTop="16dp"
+            android:src="@drawable/ic_baseline_warning_24"
+            tools:ignore="ContentDescription" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:orientation="horizontal"
+            android:weightSum="2">
+
+            <!-- No Text View -->
+            <TextView
+                android:id="@+id/textViewNo"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_gravity="center"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:background="@drawable/card_rond"
+                android:backgroundTint="#2196F3"
+                android:elevation="8dp"
+                android:gravity="center"
+                android:text="@string/cancel"
+                android:textColor="@color/white" />
+
+            <!-- Yes Text View -->
+            <TextView
+                android:id="@+id/textViewYes"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_gravity="center"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:background="@drawable/card_rond"
+                android:backgroundTint="#FD0001"
+                android:elevation="8dp"
+                android:gravity="center"
+                android:text="@string/yes"
+                android:textColor="@color/white" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

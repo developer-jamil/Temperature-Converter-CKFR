@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="enter_the_value_here">ایک قدر درج کریں!</string>
+    <string name="convert">تبدیل کریں</string>
+    <string name="celsius">سیلسیس:</string>
+    <string name="fahrenheit">فارن ہائیٹ:</string>
+    <string name="kelvin">کیلون:</string>
+    <string name="rankine">رینکائن:</string>
+    <string name="CelsiusL">سیلسیس</string>
+    <string name="FahrenheitL">فارن ہائیٹ</string>
+    <string name="KelvinL">کیلون</string>
+    <string name="RankineL">رینکائن</string>
+    <string name="share">بانٹیں</string>
+    <string name="more_apps">زیادہ اطلاقات</string>
+    <string name="about_us">ہمارے بارے میں</string>
+    <string name="rate_us">ہمیں درجہ دیں۔</string>
+    <string name="setting">ترتیبات</string>
+    <string name="privacy_and_policy">رازداری اور پالیسی</string>
+    <string name="exit">باہر نکلیں</string>
+    <string name="dis_text">اس ایپ میں ہم 4 مختلف طریقوں سے درجہ حرارت کا حساب لگا سکتے ہیں اور ہم ایک قدر کو دوسری میں تبدیل کر سکتے ہیں۔ ذیل میں فارمولے ہیں۔</string>
+    <string name="celsius_to">1. سیلسیس سے :-</string>
+    <string name="kelvin_to">2. کیلون ٹو :-</string>
+    <string name="fahrenheit_to">3. فارن ہائیٹ سے :-</string>
+    <string name="howToUse">استعمال کرنے کا طریقہ؟</string>
+    <string name="necessaryFormula">ضروری فارمولا</string>
+    <string name="kelvin_k_celsius_273_15">کیلون (K) = سیلسیس + 273.15</string>
+    <string name="fahrenheit_f_celsius_x_1_8_32">فارن ہائیٹ (°F) = (سیلسیس x 1.8) + 32</string>
+    <string name="rankine_r_celsius_273_15_x_1_8">"رینکائن (°R) = (سیلسیس + 273.15)  1.8 "</string>
+    <string name="celsius_c_kelvin_273_15">سیلسیس (°C) = کیلون - 273.15</string>
+    <string name="fahrenheit_f_kelvin_x_1_8_459_67">فارن ہائیٹ (°F) = کیلون  1.8 - 459.67</string>
+    <string name="rankine_r_kelvin_x_1_8">رینکائن (°R) = کیلون x  1.8</string>
+    <string name="celsius_c_fahrenheit_32_1_8">سیلسیس (°C) = (فارن ہائیٹ - 32) / 1.8</string>
+    <string name="kelvin_k_fahrenheit_32_1_8_273_15">کیلون (K) = (فارن ہائیٹ - 32) / 1.8 + 273.15</string>
+    <string name="rankine_r_fahrenheit_459_67">رینکائن (°R) = فارن ہائیٹ + 459.67</string>
+    <string name="rankine_to">4. رینکائن ٹو:-</string>
+    <string name="celsius_c_rankine_491_67_1_8">سیلسیس (°C) = (رینکائن - 491.67) / 1.8</string>
+    <string name="kelvin_k_rankine_1_8">کیلون (K) = رینکائن / 1.8</string>
+    <string name="fahrenheit_f_rankine_459_67">فارن ہائیٹ (°F) = رینکائن - 459.67</string>
+    <string name="choose_a_option">1. ایک اختیار منتخب کریں:</string>
+    <string name="enter_a_value">2. ایک قدر درج کریں اور کنورٹ پر کلک کریں:</string>
+    <string name="get_the_ans">3. جواب حاصل کریں:</string>
+    <string name="home">Home</string>
+    <string name="method">طریقہ</string>
+    <string name="howto">کیسے</string>
+    <string name="howto2">استعمال کرنے کا طریقہ؟</string>
+    <string name="lr_jamil">Name : LR.Jamil</string>
+    <string name="developer_info">~ ڈویلپر کی معلومات ~</string>
+    <string name="android_app_developer">Android App Developer</string>
+    <string name="education">تعلیمی قابلیت</string>
+    <string name="b_sc_honours_dep_mathematics">بی ایس سی آنرز شعبہ ریاضی</string>
+    <string name="address">پتہ</string>
+    <string name="address_dis">Chunarughat, Habiganj;  Sylhet, Bangladesh</string>
+    <string name="mobile">موبائل</string>
+    <string name="email">ای میل</string>
+    <string name="profile_dis_text">پیارے صارف۔ سب سے پہلے میری ایپ کو استعمال کرنے کے لیے آپ کا بہت بہت شکریہ۔ مجھے امید ہے کہ آپ میری ایپ سے لطف اندوز ہوں گے۔ اگر آپ کو کسی بھی قسم کی اینڈرائیڈ ایپ کی ضرورت ہو تو بلا جھجھک مجھے میسج کریں۔ میں آپ کے لیے بھی بہترین ایپ بنانے کی کوشش کروں گا۔ اگر آپ کو اس ایپ کے ساتھ کسی قسم کی پریشانی کا سامنا ہے تو براہ کرم مجھے بتائیں۔ ایک بار پھر شکریہ. ڈیولپر جمیل صاحب۔</string>
+    <string name="off">بند</string>
+    <string name="this_is_an_ad">یہ ایک اشتہار ہے۔</string>
+    <string name="cancel">منسوخ کریں۔</string>
+    <string name="yes">جی ہاں</string>
+    <string name="are_you_sure">کیا آپ باہر نکلنا چاہتے ہیں؟</string>
+    <string name="rate_app">ایپ کا جائزہ لیں۔</string>
+    <string name="privacy_policy">رازداری کی پالیسی</string>
+    <string name="dark_mood">گہرا موڈ</string>
+    <string name="on">پر</string>
+    <string name="app_name_translate">درجہ حرارت کنورٹر</string>
+</resources>

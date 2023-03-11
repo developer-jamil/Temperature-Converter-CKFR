@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Temperature Converter</string>
+
+    <string name="home">হোম</string>
+    <string name="method">পদ্ধতি</string>
+    <string name="howto">কিভাবে?</string>
+    <string name="howto2">কীভাবে ব্যবহার করতে হয়?</string>
+    <string name="setting">সেটিংস</string>
+
+    <string name="lr_jamil">নাম: এল.আর.জামিল</string>
+    <string name="developer_info">~ডেভেলপার সম্পর্কে~</string>
+    <string name="android_app_developer">এন্ড্রয়েড এপস ডেভেলপার</string>
+    <string name="education">শিক্ষাগত যোগ্যতা</string>
+    <string name="b_sc_honours_dep_mathematics">বি.এস.সি অনার্স।  গণিত বিভাগ</string>
+    <string name="address">ঠিকানা</string>
+    <string name="address_dis"> হবিগঞ্জ, সিলেট বাংলাদেশ</string>
+    <string name="mobile">মোবাইল</string>
+    <string name="email">ইমেইল</string>
+    <string name="profile_dis_text">প্রিয় ব্যবহারকারী. প্রথমেই আমার অ্যাপটি ব্যবহার করার জন্য আপনাকে অনেক ধন্যবাদ। আমি আশা করি আপনি আমার অ্যাপটি উপভোগ করছেন। আপনার যদি কোন ধরণের অ্যান্ড্রয়েড অ্যাপের প্রয়োজন হয় তবে নির্দ্বিধায় আমাকে মেসেজ করুন। আমি আপনার জন্য একটি সেরা অ্যাপ তৈরি করার চেষ্টা করব। আপনি যদি         এই অ্যাপটি নিয়ে কোনো সমস্যার সম্মুখীন হন তাহলে দয়া করে আমাকে জানান। আবার ধন্যবাদ. শুভেচ্ছায় ডেভেলপার জামিল।</string>
+
+
+    <string name="are_you_sure">আপনি প্রস্থান করতে চান?</string>
+    <string name="yes">হ্যা</string>
+    <string name="cancel">বাতিল</string>
+    <string name="exit">বাহির</string>
+
+    <string name="this_is_an_ad">ইহা একটি বিজ্ঞাপন</string>
+
+
+    <string name="enter_the_value_here">এখানে মান লিখুন!</string>
+    <string name="convert">রূপান্তর করুন</string>
+    <string name="celsius">সেলসিয়াস:</string>
+    <string name="fahrenheit">ফারেনহাইট:</string>
+    <string name="kelvin">কেলভিন:</string>
+    <string name="rankine">রাঙ্কিন:</string>
+    <string name="CelsiusL">সেলসিয়াস</string>
+    <string name="FahrenheitL">ফারেনহাইট</string>
+    <string name="KelvinL">কেলভিন</string>
+    <string name="RankineL">রাঙ্কিন</string>
+    <string name="share">শেয়ার করুন</string>
+    <string name="more_apps">আরো অ্যাপ্লিকেশান</string>
+    <string name="about_us">আমাদের সম্পর্কে</string>
+    <string name="rate_us">আপনার মতামত দিন</string>
+    <string name="privacy_and_policy">প্রাইভেসি এবং পলিসি</string>
+    <string name="dis_text">এই অ্যাপে আমরা 4টি ভিন্ন উপায়ে তাপমাত্রা গণনা করতে পারি এবং আমরা একটি মানকে অন্যটিতে রূপান্তর করতে পারি। নীচে সূত্রগুলি রয়েছে:</string>
+    <string name="celsius_to">1. সেলসিয়াস থেকে :-</string>
+    <string name="kelvin_to">2. কেলভিন থেকে :-</string>
+    <string name="fahrenheit_to">3. ফারেনহাইট থেকে :-</string>
+    <string name="howToUse">ব্যবহারবিধি?</string>
+    <string name="necessaryFormula">প্রয়োজনীয় সূত্র</string>
+    <string name="kelvin_k_celsius_273_15">কেলভিন (K) = সেলসিয়াস + ২৭৩.১৫</string>
+    <string name="fahrenheit_f_celsius_x_1_8_32">ফারেনহাইট (°F) = (সেলসিয়াস x ১.৮) + ৩২</string>
+    <string name="rankine_r_celsius_273_15_x_1_8">রাঙ্কিন (°R) = (সেলসিয়াস + ২৭৩.১৫) x ১.৮</string>
+    <string name="celsius_c_kelvin_273_15">সেলসিয়াস (°C) = কেলভিন - ২৭৩.১৫</string>
+    <string name="fahrenheit_f_kelvin_x_1_8_459_67">ফারেনহাইট (°F) = কেলভিন x ১.৮ - ৪৫৯.৬৭</string>
+    <string name="rankine_r_kelvin_x_1_8">রাঙ্কিন (°R) = কেলভিন x ১.৮</string>
+    <string name="celsius_c_fahrenheit_32_1_8">সেলসিয়াস (°C) = (ফারেনহাইট - ৩২) / ১.৮</string>
+    <string name="kelvin_k_fahrenheit_32_1_8_273_15">কেলভিন (K) = (ফারেনহাইট - ৩২) / ১.৮ + ২৭৩.১৫</string>
+    <string name="rankine_r_fahrenheit_459_67">রাঙ্কিন (°R) = ফারেনহাইট + ৪৫৯.৬৭</string>
+    <string name="rankine_to">4. রঙ্কিন থেকে:—</string>
+    <string name="celsius_c_rankine_491_67_1_8">সেলসিয়াস (°C) = (রাঙ্কিন - ৪ে৯১.৬৭) / ১.৮</string>
+    <string name="kelvin_k_rankine_1_8">কেলভিন (K) = রাঙ্কিন / ১.৮</string>
+    <string name="fahrenheit_f_rankine_459_67">ফারেনহাইট (°F) = রাঙ্কিন - ৪৫৯.৬৭</string>
+    <string name="choose_a_option">1. একটি আপশন নির্বাচন করুন:</string>
+    <string name="enter_a_value">2. একটি মান লিখুন এবং রূপান্তর ক্লিক করুন:</string>
+    <string name="get_the_ans">3. উত্তর পান:</string>
+    <string name="off">বন্ধ</string>
+    <string name="on">চালু</string>
+    <string name="rate_app">রিভিও ‍দিন</string>
+    <string name="privacy_policy">প্রাইভেসি পলিসি</string>
+    <string name="dark_mood">ডার্ক মোড</string>
+    <string name="app_name_translate">তাপমাত্রা রূপান্তরকারী</string>
+</resources>

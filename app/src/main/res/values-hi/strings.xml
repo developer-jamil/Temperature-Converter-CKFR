@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="enter_the_value_here">एक मान दर्ज करें!</string>
+    <string name="convert">बदलना</string>
+    <string name="celsius">सेल्सियस:</string>
+    <string name="fahrenheit">फारेनहाइट:</string>
+    <string name="kelvin">केल्विन:</string>
+    <string name="rankine">रैंकिन:</string>
+    <string name="CelsiusL">सेल्सियस</string>
+    <string name="FahrenheitL">फारेनहाइट</string>
+    <string name="KelvinL">केल्विन</string>
+    <string name="RankineL">रैंकिन</string>
+    <string name="share">शेयर करना</string>
+    <string name="more_apps">और ऐप</string>
+    <string name="about_us">हमारे बारे में</string>
+    <string name="rate_us">हमें रेटिंग दें</string>
+    <string name="setting">समायोजन</string>
+    <string name="privacy_and_policy">गोपनीयता और नीति</string>
+    <string name="exit">बाहर निकलना</string>
+    <string name="dis_text">इस ऐप में हम 4 अलग-अलग तरीकों से तापमान की गणना कर सकते हैं और हम एक मान को दूसरे में बदल सकते हैं। नीचे सूत्र दिए गए हैं:</string>
+    <string name="celsius_to">1. सेल्सियस से :-</string>
+    <string name="kelvin_to">2. केल्विन टू :-</string>
+    <string name="fahrenheit_to">3. फारेनहाइट से :-</string>
+    <string name="howToUse">कैसे इस्तेमाल करे?</string>
+    <string name="necessaryFormula">आवश्यक सूत्र</string>
+    <string name="kelvin_k_celsius_273_15">केल्विन (K) = सेल्सीयस + 273.15</string>
+    <string name="fahrenheit_f_celsius_x_1_8_32">फ़ारेनहाइट (°F) = (सेल्सीयस x 1.8) + 32</string>
+    <string name="rankine_r_celsius_273_15_x_1_8">रैंकिन (°R) = (सेल्सीयस + 273.15) x 1.8</string>
+    <string name="celsius_c_kelvin_273_15">सेल्सीयस (°C) = केल्विन - 273.15</string>
+    <string name="fahrenheit_f_kelvin_x_1_8_459_67">फ़ारेनहाइट (°F) = केल्विन x 1.8 - 459.67</string>
+    <string name="rankine_r_kelvin_x_1_8">रैंकिन (°R) = केल्विन x 1.8</string>
+    <string name="celsius_c_fahrenheit_32_1_8">सेल्सीयस (°C) = (फ़ारेनहाइट - 32) / 1.8</string>
+    <string name="kelvin_k_fahrenheit_32_1_8_273_15">केल्विन (K) = (फ़ारेनहाइट - 32) / 1.8 + 273.15</string>
+    <string name="rankine_r_fahrenheit_459_67">रैंकिन (°R) = फ़ारेनहाइट + 459.67</string>
+    <string name="rankine_to">4. रैंकिन टू:-</string>
+    <string name="celsius_c_rankine_491_67_1_8">सेल्सीयस (°C) = (रैंकिन - 491.67) / 1.8</string>
+    <string name="kelvin_k_rankine_1_8">केल्विन (K) = रैंकिन / 1.8</string>
+    <string name="fahrenheit_f_rankine_459_67">फ़ारेनहाइट (°F) = रैंकिन - 459.67</string>
+    <string name="choose_a_option">1. एक विकल्प चुनें:</string>
+    <string name="enter_a_value">2. एक मान दर्ज करें और कन्वर्ट पर क्लिक करें:</string>
+    <string name="get_the_ans">3. उत्तर प्राप्त करें:</string>
+    <string name="home">Home</string>
+    <string name="method">तरीका</string>
+    <string name="howto">कैसे</string>
+    <string name="howto2">का उपयोग कैसे करें?</string>
+    <string name="lr_jamil">Name : LR.Jamil</string>
+    <string name="developer_info">~ डेवलपर जानकारी ~</string>
+    <string name="android_app_developer">Android App Developer</string>
+    <string name="education">शैक्षणिक योग्यता</string>
+    <string name="b_sc_honours_dep_mathematics">बीएससी ऑनर्स। गणित विभाग</string>
+    <string name="address">पता</string>
+    <string name="address_dis">Chunarughat, Habiganj;  Sylhet, Bangladesh</string>
+    <string name="mobile">मोबाइल</string>
+    <string name="email">ईमेल</string>
+    <string name="profile_dis_text">प्रिय उपयोगकर्ता। सबसे पहले मेरे ऐप का उपयोग करने के लिए बहुत-बहुत धन्यवाद। मुझे आशा है कि आप मेरे ऐप का आनंद ले रहे हैं। अगर आपको किसी भी तरह का Android ऐप चाहिए तो बेझिझक मुझे मैसेज करें। मैं आपके लिए भी एक बेहतरीन ऐप बनाने की कोशिश करूंगा। अगर आपको इस ऐप में कोई समस्या आ रही है तो कृपया मुझे बताएं। एक बार फिर धन्यवाद। सादर डेवलपर जमील।</string>
+    <string name="off">बंद</string>
+    <string name="this_is_an_ad">यह एक विज्ञापन है</string>
+    <string name="cancel">रद्द करना</string>
+    <string name="yes">हाँ</string>
+    <string name="are_you_sure">क्या आपको बाहर निकलना है?</string>
+    <string name="rate_app">ऐप की समीक्षा करें</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name="dark_mood">डार्क मूड</string>
+    <string name="on">पर</string>
+    <string name="app_name_translate">तापमान परिवर्तक</string>
+</resources>

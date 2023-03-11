@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MethodFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="UselessParent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="@string/dis_text"
+                android:textAlignment="center"
+                android:textColor="@color/reset_color"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginBottom="30dp"
+                android:orientation="vertical">
+
+                <!--Celsius To-->
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/celsius_to"
+                    style="@style/text_color"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    style="@style/law_style"
+                    android:text="@string/kelvin_k_celsius_273_15" />
+
+                <TextView
+                    style="@style/law_style"
+                    android:text="@string/fahrenheit_f_celsius_x_1_8_32" />
+
+                <TextView
+                    style="@style/law_style"
+                    android:text="@string/rankine_r_celsius_273_15_x_1_8" />
+
+                <!--Kelvin To-->
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/kelvin_to"
+                    style="@style/text_color"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    style="@style/law_style"
+                    android:text="@string/celsius_c_kelvin_273_15" />
+
+                <TextView
+                    style="@style/law_style"
+                    android:text="@string/fahrenheit_f_kelvin_x_1_8_459_67" />
+
+                <TextView
+                    style="@style/law_style"
+                    android:text="@string/rankine_r_kelvin_x_1_8" />
+
+                <!--Fahrenheit To-->
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/fahrenheit_to"
+                    style="@style/text_color"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    style="@style/law_style"
+                    android:text="@string/celsius_c_fahrenheit_32_1_8" />
+
+                <TextView
+                    style="@style/law_style"
+                    android:text="@string/kelvin_k_fahrenheit_32_1_8_273_15" />
+
+                <TextView
+                    style="@style/law_style"
+                    android:text="@string/rankine_r_fahrenheit_459_67" />
+
+                <!--Rankine To-->
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/rankine_to"
+                    style="@style/text_color"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    style="@style/law_style"
+                    android:text="@string/celsius_c_rankine_491_67_1_8" />
+
+                <TextView
+                    style="@style/law_style"
+                    android:text="@string/kelvin_k_rankine_1_8" />
+
+                <TextView
+                    style="@style/law_style"
+                    android:text="@string/fahrenheit_f_rankine_459_67" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

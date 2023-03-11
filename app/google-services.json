@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "908513255244",
+    "firebase_url": "https://temperature-converter---ckfr-default-rtdb.firebaseio.com",
+    "project_id": "temperature-converter---ckfr",
+    "storage_bucket": "temperature-converter---ckfr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908513255244:android:afd2228cccfa2c045539e9",
+        "android_client_info": {
+          "package_name": "com.jamillabltd.temperatureconverter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908513255244-efih0ubc1g4bm4s8g88g4nm5le093nkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF3PuCzDsI0prtC2YSwm2wkFfnrpFZXVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908513255244-efih0ubc1g4bm4s8g88g4nm5le093nkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
